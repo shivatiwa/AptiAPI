@@ -60,7 +60,7 @@
         "C":"NISHIVA",
         "D":"NIHSIVA",
         "image":"",
-        "text":""
+        "text":" "
       },
       {
         "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
@@ -70,5 +70,5 @@
         "D":"185",
         "image":"",
         "text":"170"
-      },
-    ] 
+      }
+    ]
