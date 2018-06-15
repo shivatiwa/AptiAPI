@@ -1,0 +1,75 @@
+[
+    {
+      "Question":"Two men start together to walk to a certain destination, one at 3 kmph and another at 3.75 kmph. The latter arrives half an hour before the former. What is the distance?",
+      "A":"6km",
+      "B":"7.5km",
+      "C":"8km",
+      "D":"9.5km",
+      "image":"",
+      "text":""
+    },
+    {
+        "Question":"What is the average of the positive numbers from 1 to 100?",
+        "A":"49.5",
+        "B":"50",
+        "C":"50.5",
+        "D":"51",
+        "image":"",
+        "text":"50.5"
+      },
+      {
+        "Question":"If RAJIYA is coded as YARAJI, How is SHIVANI CODED?",
+        "A":"NISIHVA",
+        "B":"NISHVIA",
+        "C":"NISHIVA",
+        "D":"NIHSIVA",
+        "image":"https://i.imgur.com/fbGmg6p.jpg",
+        "text":"https://i.imgur.com/97zRmwL.png"
+      },
+      {
+        "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
+        "A":"160",
+        "B":"170",
+        "C":"180",
+        "D":"185",
+        "image":"",
+        "text":"170"
+      },
+      {
+        "Question":"June 14 2018",
+        "A":"Accenture",
+        "B":"Trivandrum",
+        "C":"Acenture is hiring Freshers with descent knowledge on Java, Java Scripts, HTML & SQL. \nAnyone who is interested please share your resume at accenture.com ",
+        "D":"https://www.accenture.com/in-en/careers/jobsearch",
+        "image":"",
+        "text":"https://i.imgur.com/97zRmwL.png"
+       },
+      {
+        "Question":"june 14 2018",
+        "A":"Cognizant",
+        "B":"Chennai/Pune/Hyderabad/Bangalore",
+        "C":"\nCognizant Technology Solutions - \nJob Openings\nExperience: 3 to 10\nJob Location: Chennai/Pune/Hyderabad/Bangalore\nJob Title:\nFusion HCM Functional\nOracle Cloud ERP - Functional and technical\nOracle Cloud ERP Technical\nOracle Cloud SCM\nOracle Fusion HCM Technical\n\nPlease share your updated resume at \n\nveeramani.karuthapandian@cognizant.com",
+        "D":"https://careers.cognizant.com/global/en",
+        "image":"",
+        "text":""
+      },
+      {
+        "Question":"june 12 2018",
+        "A":"CMARIX",
+        "B":"Ahmedabad",
+        "C":"Touch the image",
+        "D":"https://www.cmarix.com/career.html",
+        "image":"https://i.imgur.com/kZVza3V.jpg",
+        "text":""
+      },
+      {
+        "Question":"June 9 2018",
+        "A":"Infosys",
+        "B":"Pune/Bangalore",
+        "C":"Infosys!\nWe are hiring graduate engineers of 2016, 2017 and 2018! Join Infosys to help world’s top brands in their digital journey. \nLast date to apply is June 10, 2018 https://infy.com/2LcYOWd ",
+        "D":"https://infy.com/2LcYOWd",
+        "image":"",
+        "text":""
+      }
+    ]
+  
