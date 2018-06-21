@@ -2,12 +2,138 @@
 "results":
     [
     {
+      "Question":"Question:335.01∗244.99÷55=?",
+      "A":"1550",
+      "B":"1490",
+      "C":"1420",
+      "D":"1590",
+      "image":"",
+      "text":"1490"
+    },
+    {
+      "Question":"Question:All vacancies are jobs\nSome jobs are occupations\nConclusions:\nI. All vacancies are occupations\nII. All occupations being vacancies is a possibility",
+      "A":"Only conclusion I follows",
+      "B":"Only conclusion II follows",
+      "C":"None",
+      "D":"Both conclusion I and II follows",
+      "image":"",
+      "text":"Only conclusion II follows"
+    },
+    {
+      "Question":"Question:Some symbols are figures\nAll symbols are graphics\nNo graphic is a picture\nConclusions:\nI. Some graphics are figures\nII. No symbol is a picture",
+      "A":"I",
+      "B":"II",
+      "C":"Both conclusion I and II follows",
+      "D":"None",
+      "image":"",
+      "text":"Both conclusion I and II follows"
+    },
+    {
+      "Question":"Question:√6354×34.999=?",
+      "A":"2600",
+      "B":"2800",
+      "C":"3000",
+      "D":"3200",
+      "image":"",
+      "text":"2800"
+    },
+    {
+      "Question":"In a certain code\nI. 'Rip Lub Ja Pit' means 'Kindly Let me speak'.\nII. 'Sa Tik Lub' means 'Kindly go forward'.\nIII. 'Pit Sun Ki' means 'Speak with Example'.\nIV. 'Ja Ha Tik' means 'Let others Go'.\nIn the code 'Ha' means ?",
+      "A":"Forward",
+      "B":"Kindly",
+      "C":"Go",
+      "D":"Others",
+      "image":"",
+      "text":"Others"
+    },
+    {
+      "Question":"In a certain code\nI. 'Rip Lub Ja Pit' means 'Kindly Let me speak'.\nII. 'Sa Tik Lub' means 'Kindly go forward'.\nIII. 'Pit Sun Ki' means 'Speak with Example'.\nIV. 'Ja Ha Tik' means 'Let others Go'.\nWhat is the code for 'Example' ?",
+      "A":"Ki",
+      "B":"Pit",
+      "C":"Sun",
+      "D":"Ha",
+      "image":"",
+      "text":"Ki"
+    },
+    {
+      "Question":"What is the age of a class teacher ?\nI. There are 11 students in the class.\nII. The average age of the students and the teacher is 14 years.\nIII.The average age of the teacher and the students is 3 years more than that of the students.",
+      "A":"Both I and III",
+      "B":"Both I and II",
+      "C":"Either I or III",
+      "D":"All I, II and III",
+      "image":"",
+      "text":"All I, II and III"
+    },
+    {
+      "Question":"Find out the missing number.\n0 , 1 , 1 , 2 , 3 , 5 ,__ , 13 , 21",
+      "A":"7",
+      "B":"8",
+      "C":"9",
+      "D":"10",
+      "image":"",
+      "text":"8"
+    },    
+    {
+      "Question":"40 cattle can graze a grassland for 60 days. The number of cattle that will graze a grassland 2 times as large in 40 days is:",
+      "A":"150",
+      "B":"120",
+      "C":"90",
+      "D":"60",
+      "image":"",
+      "text":"120"
+    },
+    {
+      "Question":"Question: Find out the missing number.\n 2, 1 , 1 , 1.5 , 3 , 7.5 , ___",
+      "A":"22.5",
+      "B":"11",
+      "C":"11.5",
+      "D":"15",
+      "image":"9",
+      "text":"22.5"
+    },
+    {
+      "Question":"Question: What is the cost of fencing a rectangular plot along all four sides at Rs. 450 per metre ?\nI. The area of the plot is 1458 m^2, which is 54 times the numerical value of its breadth.\nII. The length of the plot is 200 % of its breadth and the breadth is 50 % of its length.",
+      "A":"I",
+      "B":"II",
+      "C":"Both I and II",
+      "D":"None",
+      "image":"",
+      "text":"Both I and II"
+    },
+    {
+      "Question":"Question: The difference of two numbers of two digit each is 24 while the sum of these two number is 102.What is the larger number?",
+      "A":"83",
+      "B":"63",
+      "C":"71",
+      "D":"84",
+      "image":"",
+      "text":"63"
+    },
+    {
+      "Question":"Question:√97344=?",
+      "A":"332",
+      "B":"312",
+      "C":"3124",
+      "D":"3112",
+      "image":"",
+      "text":"312"
+    },
+    {
+      "Question":"Seven friends T,U,V,W,X,Y and Z are sitting in a straight line facing North.W sits fifth to the right of T. W does not sit at any of the extreme ends.Two people sit between Z and X. Y sits third to the left of U. Y sits exactly in the middle. Z is not an immediate neighbour of Y.",
+      "A":"Y",
+      "B":"X",
+      "C":"W",
+      "D":"U",
+      "image":"",
+      "text":"U"
+    },
+    {
       "Question":"Two men start together to walk to a certain destination, one at 3 kmph and another at 3.75 kmph. The latter arrives half an hour before the former. What is the distance?",
       "A":"6km",
       "B":"7.5km",
       "C":"8km",
       "D":"9.5km",
-      "image":"https://www.bhphotovideo.com/images/images500x500/LEE_Filters_115R_Peacock_Blue_Color_Effect_688218.jpg",
+      "image":"",
       "text":""
     },
     {
