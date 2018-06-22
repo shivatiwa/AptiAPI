@@ -2,6 +2,96 @@
 "results":
     [
     {
+      "Question":"A number is decreased by 20% and then increased by 40%.Find the percentage change in the number.",
+      "A":"20",
+      "B":"12",
+      "C":"60",
+      "D":"40",
+      "image":"",
+      "text":"12"
+    },
+    {
+      "Question":"X, Y and Z have a total of Rs.224 with them. If their shares are increased by Rs.5, 9 and 2 respectively, then the ratio of their amounts is 3:2:1. Find the original amount with Y.",
+      "A":"71",
+      "B":"115",
+      "C":"38",
+      "D":"120",
+      "image":"",
+      "text":"71"
+    },
+    {
+      "Question":"A tank can be filled in x hours, but because of a leak, it takes 40 hours to fill the tank. Find x if the leak can empty the tank in 60 hours.",
+      "A":"30",
+      "B":"24",
+      "C":"36",
+      "D":"20",
+      "image":"",
+      "text":"24"
+    },
+    {
+      "Question":"In a 300m race, A beats B by 24m or 6 seconds. Find the time taken by A to finish the race.",
+      "A":"75 sec",
+      "B":"81 sec",
+      "C":"69 sec",
+      "D":"60 sec",
+      "image":"",
+      "text":"69 sec"
+    },    
+    {
+      "Question":" In a party of 40 people, everyone shakes hands with all the other persons exactly once. What is the total number of handshakes happening?",
+      "A":"780",
+      "B":"820",
+      "C":"40!",
+      "D":"None of these",
+      "image":"",
+      "text":"780"
+    },    
+    {
+      "Question":"How many 3 digit even numbers can be formed such that if one of the digits is 5, then the next digit is 7?",
+      "A":"5",
+      "B":"9",
+      "C":"365",
+      "D":"15",
+      "image":"",
+      "text":"1490"
+    },    
+    {
+      "Question":"Find the least number which when divided by 5 and 9 will leave remainders of 3 and 7 respectively.",
+      "A":"47",
+      "B":"88",
+      "C":"43",
+      "D":"92",
+      "image":"",
+      "text":"43"
+    },    
+    {
+      "Question":"Find the number of numbers from 1 to 100 that are divisible by 2 or 3 or 5",
+      "A":"68",
+      "B":"74",
+      "C":"71",
+      "D":"103",
+      "image":"",
+      "text":"74"
+    },
+    {
+      "Question":"A ladder is touching a wall and the base of the ladder is 15 m away from the wall. When the ladder is pulled away from the wall by 2 m, it becomes parallel to the ground. Find the distance of the initial point of contact of the ladder and the wall from the ground.",
+      "A":"10m",
+      "B":"8m",
+      "C":"12m",
+      "D":"14m",
+      "image":"",
+      "text":"8m"
+    },
+    {
+      "Question":"If n = 1 + x, where x is the product of four consecutive positive integers, then which of the following is/are true?",
+      "A":"n is even",
+      "B":"n is prime",
+      "C":"n is a perfect cube",
+      "D":"n is odd",
+      "image":"",
+      "text":"n is odd."
+    },
+    {
       "Question":"Question:335.01∗244.99÷55=?",
       "A":"1550",
       "B":"1490",
