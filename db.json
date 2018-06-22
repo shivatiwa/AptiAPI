@@ -2,6 +2,51 @@
 "results":
     [
     {
+      "Question":"How many numbers can be formed between 200 and 1200, using the digits 0, 1, 2 and 3, such that there is no repetition?",
+      "A":"48 ",
+      "B":"16",
+      "C":"32",
+      "D":"14",
+      "image":"",
+      "text":"14"
+    },    
+    {
+      "Question":"If 6x^2 + 6y^2 = 13xy, find x:y.",
+      "A":"2:5 ",
+      "B":"3:2",
+      "C":"1:2",
+      "D":"4:5",
+      "image":"",
+      "text":"3:2"
+    },
+    {
+      "Question":"In how many ways can a person put 4 letters in 4 envelopes such that exactly three letters are in their respective envelopes?",
+      "A":"23",
+      "B":"18",
+      "C":"1",
+      "D":"0",
+      "image":"",
+      "text":"0"
+    },
+    {
+      "Question":"Find the greatest",
+      "A":" 3^1/3 ",
+      "B":" 2^1/2 ",
+      "C":" 4^1/4 ", 
+      "D":" 6^1/6 ", 
+      "image":"",
+      "text":"1490"
+    },
+    {
+      "Question":"Find the number of divisors of 36 excluding 1 and 36.",
+      "A":"13",
+      "B":"11",
+      "C":"10",
+      "D":"7",
+      "image":"",
+      "text":" 7.\nconsider n = p a q b . The divisors would be d ( p a q b ) = ( a + 1 ) ( b + 1 ) d ( 36 ) = d ( 2 2 ⋅ 3 2 ) = ( 2 + 1 ) ( 2 + 1 ) = 9 − 2 = 7"
+    },
+    {
       "Question":"A number is decreased by 20% and then increased by 40%.Find the percentage change in the number.",
       "A":"20",
       "B":"12",
